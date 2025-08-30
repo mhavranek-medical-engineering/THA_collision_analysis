@@ -3,9 +3,9 @@ import numpy as np
 import trimesh
 from trimesh.collision import CollisionManager
 
-mesh1 = pv.read(r"C:\Users\Martin Havránek\Desktop\THA\Pelvis.stl")
-mesh2 = pv.read(r"C:\Users\Martin Havránek\Desktop\THA\Acetabular_component_0.stl")
-mesh3 = pv.read(r"C:\Users\Martin Havránek\Desktop\THA\Collomis.stl")
+mesh1 = pv.read("")
+mesh2 = pv.read("")
+mesh3 = pv.read("")
 
 
 def rotation(angle, axis):
